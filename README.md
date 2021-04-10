@@ -10,9 +10,12 @@ Ik ben zelf al enige tijd bezig met het maken van een Full Stack Crypto WEB APP.
 - [How](#How)
 
 ## DOT Framework
+
+<img src=https://user-images.githubusercontent.com/58031089/114270834-cd543680-9a0e-11eb-9b01-7248641fab13.png width="300" height="300" />
+
 DOT (Development Oriented Triangulation) Framework, is een een onderzoeksmethode die gebruikt kan worden in ICT onderzoeken om zo een goede structuur, compleet en duidelijk overzicht te creëren voor elke lezer.
 
-<img src=https://user-images.githubusercontent.com/58031089/114270834-cd543680-9a0e-11eb-9b01-7248641fab13.png width="400" height="400" />
+
 
 ### What
 
