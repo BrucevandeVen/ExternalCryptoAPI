@@ -21,7 +21,7 @@ Bron: https://ictresearchmethods.nl/The_DOT_Framework
 Voor mijn project wil ik weten wat de beste manier is om een crypto API te implementeren. Mijn applicatie is een crypto monitor, hierop is het de bedoeling de huidige crypto waardes te laten zien. Ik wil meer dan alleen de Bitcoin waarde weten, maar meer dan 20 verschillende coins vind ik ook overbodig. Ik ga dus zoeken naar een Crypto API die meer dan alleen Bitcoin waardes doorgeeft en minimaal dit semester mee kan omtrent het aantal requests. Als laatste mag het ook geen betaalde API zijn. 
 Ook moet ik een externe API kunnen implementeren in mijn project. Ik heb alleen de PUT endpoint nodig, omdat ik alleen waardes wil updaten.
 
-**De hoofdonderzoeksvraag:  
+**De hoofdonderzoeksvraag:  **
 Wat is de beste crypto data API en hoe implementeer ik deze in mijn ASP.NET WEB API project?
 
 ### Why
