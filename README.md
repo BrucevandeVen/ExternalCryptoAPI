@@ -47,4 +47,4 @@ Ik ben van plan de volgende methodes te gebruiken:
 - Lab (optioneel)
 - Showroom (optioneel)
 
-Ik ben van plan een test applicatie te maken om verschillende API endpoints te kunnen testen, van verschillende websites. 
+Ik ben van plan een test applicatie te maken om verschillende API endpoints te kunnen testen van verschillende websites. 
