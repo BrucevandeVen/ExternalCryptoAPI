@@ -13,6 +13,7 @@ Ik ben zelf al enige tijd bezig met het maken van een Full Stack Crypto WEB APP.
 DOT (Development Oriented Triangulation) Framework, is een een onderzoeksmethode die gebruikt kan worden in ICT onderzoeken om zo een goede structuur, compleet en duidelijk overzicht te creëren voor elke lezer.
 ![image](https://user-images.githubusercontent.com/58031089/114270834-cd543680-9a0e-11eb-9b01-7248641fab13.png)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 ### What
 
