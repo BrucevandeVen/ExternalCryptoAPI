@@ -1,2 +1,3 @@
-# ExternalCryptoAPI
-Onderzoek naar de implementatie van een externe crypto API 
+# External Crypto API
+Onderzoek naar de implementatie van een externe crypto API
+=
