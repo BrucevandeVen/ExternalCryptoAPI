@@ -38,7 +38,7 @@ DOT Framework heeft 5 methodes om een onderzoek uit te voeren:
 - [Library](https://ictresearchmethods.nl/Category:Library) (onderzoeken wat al gedaan is)
 - [Field](https://ictresearchmethods.nl/Category:Field) (baseer keuzes op end users) 
 - [Workshop](https://ictresearchmethods.nl/Category:Workshop) (prototyping/sketching)
-- [LAB](https://ictresearchmethods.nl/Category:LAB) (testing)
+- [Lab](https://ictresearchmethods.nl/Category:LAB) (testing)
 - [Showroom](https://ictresearchmethods.nl/Category:Showroom) (expert feedback)
 
 Ik ben van plan de volgende methodes te gebruiken
