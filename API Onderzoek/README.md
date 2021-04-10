@@ -7,4 +7,4 @@ In dit onderzoek ga ik uitzoeken welke API's er geschikt zijn voor mijn project.
 Ik ga onderzoeken wat er al op internet beschikbaar omtrent Crypto API vergelijkingen, en neem deze mee in het onderzoek.
 
 ## Workshop (Prototyting)
-Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is.
+Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is. Een van deze prototypes is mijn [Coin Test API](CoinTestAPI). 
