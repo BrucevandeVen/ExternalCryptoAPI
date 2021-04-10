@@ -6,6 +6,5 @@ In dit onderzoek ga ik uitzoeken welke API's er geschikt zijn voor mijn project.
 ## Library (Wat is al bekend?)
 Ik ga onderzoeken wat er al op internet beschikbaar omtrent Crypto API vergelijkingen, en neem deze mee in het onderzoek.
 
-##
-
-
+## Workshop (Prototyting)
+Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is.
