@@ -15,7 +15,7 @@ Ik ben zelf al enige tijd bezig met het maken van een Full Stack Crypto WEB APP.
 
 DOT (Development Oriented Triangulation) Framework, is een een onderzoeksmethode die gebruikt kan worden in ICT onderzoeken om zo een goede structuur, compleet en duidelijk overzicht te creëren voor elke lezer. Hierbij wordt de What, Why en How structuur gebruikt.
 
-Bron: https://ictresearchmethods.nl/The_DOT_Framework
+Bron: [DOT Framework](https://ictresearchmethods.nl/The_DOT_Framework)
 
 ## What
 Voor mijn project wil ik weten wat de beste manier is om een crypto API te implementeren. Mijn applicatie is een crypto monitor, hierop is het de bedoeling de huidige crypto waardes te laten zien. Ik wil meer dan alleen de Bitcoin waarde weten, maar meer dan 20 verschillende coins vind ik ook overbodig. Ik ga dus zoeken naar een Crypto API die meer dan alleen Bitcoin waardes doorgeeft en minimaal dit semester mee kan omtrent het aantal requests. Als laatste mag het ook geen betaalde API zijn. 
@@ -36,9 +36,9 @@ Dit onderzoek gaat er voor zorgen dat ik de juiste externe (Crypto) API kan vind
 ## How
 DOT Framework heeft 5 methodes om een onderzoek uit te voeren:
 - [Library](https://ictresearchmethods.nl/Category:Library) (onderzoeken wat al gedaan is)
-- Field (baseer keuzes op end users) bron: 
-- Workshop (prototyping/sketching)
-- LAB (testing)
-- Showroom (expert feedback)
+- [Field](https://ictresearchmethods.nl/Category:Field) (baseer keuzes op end users) 
+- [Workshop](https://ictresearchmethods.nl/Category:Workshop) (prototyping/sketching)
+- [LAB](https://ictresearchmethods.nl/Category:LAB) (testing)
+- [Showroom](https://ictresearchmethods.nl/Category:Showroom) (expert feedback)
 
 Ik ben van plan de volgende methodes te gebruiken
