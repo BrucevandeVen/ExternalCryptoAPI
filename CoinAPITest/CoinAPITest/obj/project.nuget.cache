@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMtOSwylLKN8j1hrpZEwLIxS5DeZCPG+UUD/2CCmgPGRF+szBVoL6jXRpgdQPrEdDAzCxVDwTd+zyyCUQSD45g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruce van de Ven\\source\\repos\\CoinAPITest\\CoinAPITest\\CoinAPITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruce van de Ven\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
