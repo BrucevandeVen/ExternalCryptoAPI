@@ -33,5 +33,12 @@ Ik ga dit onderzoek uitvoeren, omdat ik overwelmt wordt door alle opties op het 
 **Wat gaat dit onderzoek oplossen?**  
 Dit onderzoek gaat er voor zorgen dat ik de juiste externe (Crypto) API kan vinden en implementeren in mijn project. Ik loop hier nu al een tijdje op vast en kijk uit naar het resultaat.
 
-
 ## How
+DOT Framework heeft 5 methodes om een onderzoek uit te voeren:
+- [Library](https://ictresearchmethods.nl/Category:Library) (onderzoeken wat al gedaan is)
+- Field (baseer keuzes op end users) bron: 
+- Workshop (prototyping/sketching)
+- LAB (testing)
+- Showroom (expert feedback)
+
+Ik ben van plan de volgende methodes te gebruiken
