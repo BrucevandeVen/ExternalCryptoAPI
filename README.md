@@ -22,12 +22,12 @@ Voor mijn project wil ik weten wat de beste manier is om een crypto API te imple
 Ook moet ik een externe API kunnen implementeren in mijn project. Ik heb alleen de PUT endpoint nodig, omdat ik alleen waardes wil updaten.
 
 De hoofdonderzoeksvraag:  
-**Wat is de beste crypto data API en hoe implementeer ik deze in mijn ASP.NET WEB API project?**
+**Welke crypto data API voldoet het meest aan mijn criterea en hoe implementeer ik deze in mijn ASP.NET WEB API project?**
 
 ## Why  
 **Deelvragen**  
 Ik ga dit onderzoek uitvoeren, omdat ik overwelmt wordt door alle opties op het gebied van crypto API's. Het is lastig om iets te vinden wat aan mijn criterea voldoet. Om tot een concreter antwoord te komen heb ik 2 deelvragen bedacht:  
-- Wat is/zijn de beste Crypto API('s) voor mijn project?
+- Welke Crypto API('s) voldoen het meeste aan mijn criterea?
 - Hoe implementeer ik een Crypto API in mijn project?  
 
 **Wat gaat dit onderzoek oplossen?**  
