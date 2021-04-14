@@ -39,7 +39,8 @@ LunarCRUSH is de eerste API die behandeld wordt, dit is een goede kandidaat voor
 Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat ik deze website al veel voorbij heb zien komen in mijn kennissenkringen en zelf ook wel eens gebruikt heb om de huidige crypto waardes te volgen. De data is op een aantal seconden na accuraat. De Coinmarketcap documentatie zit achter een login scherm.  
 
 **Criterea:**
-- Kosten: 0
+- Kosten: 0  
+![image](https://user-images.githubusercontent.com/58031089/114744643-32c95f80-9d4e-11eb-9937-ab06a5fe2bd8.png)  
 - Aantal calls: Maximaal 30 per minuut, 333 per dag, 10.000 per maand
 - Bruikbare periode: Onbeperkt
 - Data: https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest   
