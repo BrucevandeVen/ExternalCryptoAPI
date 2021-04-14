@@ -34,7 +34,7 @@ De eerste vergelijking die ik tegen ben gekomen is een [top 5 van Nicholas Resen
 - [LunarCRUSH](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/API%20Onderzoek#lunarcrush)
 
 ### [Coinmarketcap](https://coinmarketcap.com/)
-Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat ik deze website al veel voorbij heb zien komen in mijn kennissenkringen en zelf ook wel eens gebruikt heb om de huidige crypto waardes te volgen. De data is op een aantal seconden na accuraat.  
+Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat ik deze website al veel voorbij heb zien komen in mijn kennissenkringen en zelf ook wel eens gebruikt heb om de huidige crypto waardes te volgen. De data is op een aantal seconden na accuraat. De Coinmarketcap documentatie zit achter een login scherm.  
 
 **Criterea:**
 - Kosten: 0
@@ -47,7 +47,7 @@ Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat
 Coinmarketcap is zeer geschikt om te gebruiken voor mijn project, het voldoet aan mijn criterea.  
 
 ### [LunarCRUSH](https://lunarcrush.com/dashboard)
-LunarCRUSH heb ik onderzocht in de Library fase. De data update elk uur.  
+LunarCRUSH heb ik onderzocht in de Library fase. De data update elk uur. De [LunarCRUSH documentatie](https://lunarcrush.com/developers/docs#).  
 
 **Criterea:**
 - Kosten: 0
