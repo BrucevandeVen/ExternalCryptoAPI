@@ -51,7 +51,8 @@ Coinmarketcap is zeer geschikt om te gebruiken voor mijn project, het voldoet aa
 LunarCRUSH heb ik onderzocht in de Library fase. De data update elk uur. De [LunarCRUSH documentatie](https://lunarcrush.com/developers/docs#).  
 
 **Criterea:**
-- Kosten: 0
+- Kosten: 45 euro per maand  
+![image](https://user-images.githubusercontent.com/58031089/114724693-1f14fd80-9d3c-11eb-9c0a-8634d31e4de2.png)  
 - Aantal calls: Onbeperkt
 - Bruikbare periode: Onbeperkt
 - Data: https://api.lunarcrush.com/v2?data=meta&key=8piwl04kwy9qd4x792isyd&type=price  
