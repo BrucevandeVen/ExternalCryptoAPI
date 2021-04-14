@@ -5,3 +5,4 @@ Deze applicatie is gemaakt om te spelen met het ophalen van data van Crypto API'
 
 ## Getestte API's
 - [Coindesk](https://www.coindesk.com/coindesk-api) (alleen Bitcoin)
+- [Coinmarketcap](https://coinmarketcap.com/api/documentation/v1/)
