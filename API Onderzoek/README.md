@@ -31,9 +31,11 @@ De eerste vergelijking die ik tegen ben gekomen is een [top 5 van Nicholas Resen
 ## Onderzochtten API's
 ### Table Of Contents
 - [Coinmarketcap](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/API%20Onderzoek#coinmarketcap)
+- [LunarCRUSH](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/API%20Onderzoek#lunarcrush)
 
 ### [Coinmarketcap](https://coinmarketcap.com/)
 Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat ik deze website al veel voorbij heb zien komen in mijn kennissenkringen en zelf ook wel eens gebruikt heb om de huidige crypto waardes te volgen. De data is op een aantal seconden na accuraat.  
+
 **Criterea:**
 - Kosten: 0
 - Aantal calls: Maximaal 30 per minuut, 333 per dag, 10.000 per maand
@@ -46,12 +48,16 @@ Coinmarketcap is zeer geschikt om te gebruiken voor mijn project, het voldoet aa
 
 ### [LunarCRUSH](https://lunarcrush.com/dashboard)
 LunarCRUSH heb ik onderzocht in de Library fase. De data update elk uur.  
+
 **Criterea:**
 - Kosten: 0
 - Aantal calls: Onbeperkt
 - Bruikbare periode: Onbeperkt
 - Data: https://api.lunarcrush.com/v2?data=meta&key=8piwl04kwy9qd4x792isyd&type=price  
-![image](https://user-images.githubusercontent.com/58031089/114712992-f63b3b00-9d30-11eb-926e-d5fff65bc636.png)
+![image](https://user-images.githubusercontent.com/58031089/114712992-f63b3b00-9d30-11eb-926e-d5fff65bc636.png)  
+
+**Conclusie:**  
+LunarCRUSH heeft alles wat ik wil, er is geen enkele mogelijkheid dat hier nog een API overheen komt. Het enige minpunten is dat de API per uur update, maar dat is voor mijn project niet van belang op het moment.
 
 ## Workshop (Prototyting)
 Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is. Een van deze prototypes is mijn [Coin Test API](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/CoinAPITest).
