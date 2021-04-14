@@ -1,4 +1,5 @@
 # Implementatie van de Crypto API
+# Hoe implementeer ik een Crypto API?
 
 ## introductie
 Ik ga hier uitleggen hoe ik mijn uiteindelijk gevonden Crypto API verbind met mijn API d.m.v. code snippets en hoe ik met de crypto data om ga. 
