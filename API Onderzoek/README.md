@@ -26,12 +26,13 @@ Hoeveel currencies geeft de API door? Ik wil minimaal een top 10 van de huidige 
 Ik ga onderzoeken wat er al op internet beschikbaar omtrent Crypto API vergelijkingen, en neem deze mee in het onderzoek.
 
 De eerste vergelijking die ik tegen ben gekomen is een [top 5 van Nicholas Resendez](https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749). Hij heeft op moment van schrijven een goede vergelijking van de (in juni 2020) grootste/beste Crypto data API's.  
-[LunarCRUSH](https://lunarcrush.com/developers/pricing) is de eerste API die behandeld wordt
+LunarCRUSH is de eerste API die behandeld wordt, dit is een goede kandidaat voor mijn project. De API's Messari, Nomics en CoinGecko vielen automatisch af, omdat bij deze API's geen top 10 crypto werd gebruikt (dus ID: 1 voor de hoogste marketcap en ID: 2 voor de volgende etc.), bij deze API's wordt alleen de naam van de crypto gebruikt (ID: BTC, ID: ETH etc.), dit is dus niet handig als ik een automatische top 10 wil laten zien. Er blijft nu nog 1 crypto API over en dat is Coinmarketcap, ik ben al bekend met deze API en is ook zeker een goede kandidaat voor mijn project.
 
 ## Onderzochtten API's
 ### Table Of Contents
 - [Coinmarketcap](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/API%20Onderzoek#coinmarketcap)
 - [LunarCRUSH](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/API%20Onderzoek#lunarcrush)
+- [CoinDesk]()
 
 ### [Coinmarketcap](https://coinmarketcap.com/)
 Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat ik deze website al veel voorbij heb zien komen in mijn kennissenkringen en zelf ook wel eens gebruikt heb om de huidige crypto waardes te volgen. De data is op een aantal seconden na accuraat. De Coinmarketcap documentatie zit achter een login scherm.  
@@ -58,6 +59,16 @@ LunarCRUSH heb ik onderzocht in de Library fase. De data update elk uur. De [Lun
 
 **Conclusie:**  
 LunarCRUSH heeft alles wat ik wil, er is geen enkele mogelijkheid dat hier nog een API overheen komt. Het enige minpunten is dat de API per uur update, maar dat is voor mijn project niet van belang op het moment.
+
+### [CoinDesk](https://www.coindesk.com/coindesk-api)
+CoinDesk heeft een simpele API die alleen Bitcoin data verstrekt (BPI).  
+
+**Criterea:**
+- Kosten: 0
+- Aantal calls: Onbeperkt
+- Bruikbare periode: Onbeperekt
+- Data: https://api.coindesk.com/v1/bpi/currentprice.json  
+![image](https://user-images.githubusercontent.com/58031089/114720532-626d6d00-9d38-11eb-9701-95d5372f3233.png)
 
 ## Workshop (Prototyting)
 Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is. Een van deze prototypes is mijn [Coin Test API](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/CoinAPITest).
