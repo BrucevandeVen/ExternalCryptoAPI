@@ -26,34 +26,32 @@ Hoeveel currencies geeft de API door? Ik wil minimaal een top 10 van de huidige 
 Ik ga onderzoeken wat er al op internet beschikbaar omtrent Crypto API vergelijkingen, en neem deze mee in het onderzoek.
 
 De eerste vergelijking die ik tegen ben gekomen is een [top 5 van Nicholas Resendez](https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749). Hij heeft op moment van schrijven een goede vergelijking van de (in juni 2020) grootste/beste Crypto data API's.  
-[LunarCRUSH](https://lunarcrush.com/developers/pricing) is de eerste API die behandeld wordt, helaas is deze betaald dus deze API valt gelijk af.
-De data
+[LunarCRUSH](https://lunarcrush.com/developers/pricing) is de eerste API die behandeld wordt
 
 ## Onderzochtten API's
 ### Table Of Contents
 - [Coinmarketcap](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/API%20Onderzoek#coinmarketcap)
 
 ### [Coinmarketcap](https://coinmarketcap.com/)
-Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat ik deze website al veel voorbij heb zien komen in mijn kennissenkringen en zelf ook wel eens gebruikt heb om de huidige crypto waardes te volgen.  
+Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat ik deze website al veel voorbij heb zien komen in mijn kennissenkringen en zelf ook wel eens gebruikt heb om de huidige crypto waardes te volgen. De data is op een aantal seconden na accuraat.  
 **Criterea:**
 - Kosten: 0
 - Aantal calls: Maximaal 30 per minuut, 333 per dag, 10.000 per maand
-- Bruikbare periode: Oneindig
+- Bruikbare periode: Onbeperkt
 - Data: https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest   
 ![image](https://user-images.githubusercontent.com/58031089/114706687-8ecdbd00-9d29-11eb-8884-f99dc7e5180c.png)
 
 **Conclusie:**    
-Coinmarketcap is zeer geschikt om te gebruiken voor mijn project, het voldoet aan mijn criterea. 
+Coinmarketcap is zeer geschikt om te gebruiken voor mijn project, het voldoet aan mijn criterea.  
 
 ### [LunarCRUSH](https://lunarcrush.com/dashboard)
-LunarCRUSH heb ik onderzocht in de Library fase.  
+LunarCRUSH heb ik onderzocht in de Library fase. De data update elk uur.  
 **Criterea:**
-- Kosten: Onbekend, maar niet gratis, er moet contact worden gezocht. (LunarCRUSH heeft een gratis plan waar de API niet bruikbaar is).
-- Aantal calls: Onbekend
-- Bruikbare periode: Onbekend
-- Data: https://api.lunarcrush.com/v2?data=assets&key=8piwl04kwy9qd4x792isyd&symbol=BTC  
-![image](https://user-images.githubusercontent.com/58031089/114710781-698f7d80-9d2e-11eb-9fb9-131daafdbc4b.png)
-
+- Kosten: 0
+- Aantal calls: Onbeperkt
+- Bruikbare periode: Onbeperkt
+- Data: https://api.lunarcrush.com/v2?data=meta&key=8piwl04kwy9qd4x792isyd&type=price  
+![image](https://user-images.githubusercontent.com/58031089/114712992-f63b3b00-9d30-11eb-926e-d5fff65bc636.png)
 
 ## Workshop (Prototyting)
 Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is. Een van deze prototypes is mijn [Coin Test API](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/CoinAPITest).
