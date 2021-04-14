@@ -59,7 +59,7 @@ LunarCRUSH is een van de bekendere crypto monitor applicaties, naast Cryptomarke
 ![image](https://user-images.githubusercontent.com/58031089/114712992-f63b3b00-9d30-11eb-926e-d5fff65bc636.png)  
 
 **Conclusie:**  
-LunarCRUSH heeft alles wat ik wil, er is geen enkele mogelijkheid dat hier nog een API overheen komt. Het enige minpunten is dat de API per uur update, maar dat is voor mijn project niet van belang op het moment.
+LunarCRUSH heeft alles wat ik wil, behalve de prijs en het feit dat het per uur update, maar dat is voor mijn project niet van belang op het moment. LunarCRUSH gaat dus zeker weten niet in mijn project komen i.v.m. de prijs.
 
 ### [CoinDesk](https://www.coindesk.com/coindesk-api)
 CoinDesk heeft een simpele API die alleen Bitcoin data verstrekt (BPI).  
