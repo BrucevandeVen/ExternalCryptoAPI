@@ -20,7 +20,7 @@ Mijn applicatie heeft als doel de huidige crypto waarden tonen van een aantal cr
 De API moet minimaal mee gaan tot het einde van dit semester, dat is nu ongeveer 3 maanden.
 
 ### Data
-Hoeveel currencies geeft de API door? Ik wil minimaal een top 10 van de huidige crypto currencies (op basis van market cap) opvragen. Ik ben tevreden met zoveel mogelijk data, maar dit is zeker geen prioriteit, ik ga akkoord met alle soorten hoeveelheden data, omdat de andere criterea veel zwaarder wegen om dit project mogelijk te maken.
+Hoeveel currencies geeft de API door? Ik wil minimaal een top 10 van de huidige crypto currencies (op basis van market cap) opvragen. Ik ben tevreden met zoveel mogelijk data, maar dit is zeker geen prioriteit, ik ga akkoord met alle soorten hoeveelheden data, omdat de andere criterea veel zwaarder wegen om dit project mogelijk te maken. Het minimale is wel dat de huidige prijs beschikbaar moet zijn.
 
 ## Library (Wat is al bekend?)
 Ik ga onderzoeken wat er al op internet beschikbaar omtrent Crypto API vergelijkingen, en neem deze mee in het onderzoek.
