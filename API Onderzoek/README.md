@@ -25,5 +25,17 @@ Hoeveel currencies geeft de API door? Ik wil minimaal een top 10 van de huidige 
 ## Library (Wat is al bekend?)
 Ik ga onderzoeken wat er al op internet beschikbaar omtrent Crypto API vergelijkingen, en neem deze mee in het onderzoek.
 
+### [Coinmarketcap](https://coinmarketcap.com/)
+Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat ik deze website al veel voorbij heb zien komen in mijn kennissenkringen en zelf ook wel eens gebruikt heb om de huidige crypto waardes te volgen.  
+Criterea:
+- Kosten: 0
+- Aantal calls: Maximaal 30 per minuut, 333 per dag, 10.000 per maand
+- Bruikbare periode: Oneindig
+- Data:  
+![image](https://user-images.githubusercontent.com/58031089/114706687-8ecdbd00-9d29-11eb-8884-f99dc7e5180c.png)
+
+**Conclusie:**    
+Coinmarketcap is zeer geschikt om te gebruiken voor mijn project, het voldoet aan mijn criterea. 
+
 ## Workshop (Prototyting)
 Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is. Een van deze prototypes is mijn [Coin Test API](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/CoinAPITest).
