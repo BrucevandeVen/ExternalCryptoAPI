@@ -48,7 +48,7 @@ Als eerste heb ik [coinmarketcap](https://coinmarketcap.com/api/) bezocht, omdat
 Coinmarketcap is zeer geschikt om te gebruiken voor mijn project, het voldoet aan mijn criterea.  
 
 ### [LunarCRUSH](https://lunarcrush.com/dashboard)
-LunarCRUSH heb ik onderzocht in de Library fase. De data update elk uur. De [LunarCRUSH documentatie](https://lunarcrush.com/developers/docs#).  
+LunarCRUSH is een van de bekendere crypto monitor applicaties, naast Cryptomarketcap en Binance. De data update elk uur. De [LunarCRUSH documentatie](https://lunarcrush.com/developers/docs#).  
 
 **Criterea:**
 - Kosten: 45 euro per maand  
