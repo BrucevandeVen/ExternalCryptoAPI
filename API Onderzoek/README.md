@@ -25,6 +25,8 @@ Hoeveel currencies geeft de API door? Ik wil minimaal een top 10 van de huidige 
 ## Library (Wat is al bekend?)
 Ik ga onderzoeken wat er al op internet beschikbaar omtrent Crypto API vergelijkingen, en neem deze mee in het onderzoek.
 
+De eerste vergelijking die ik tegen ben gekomen is een [top 5 van Nicholas Resendez](https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749). Hij heeft op moment van schrijven een goede vergelijking van de (in juni 2020) grootste/beste Crypto data API's.
+
 ## Onderzochtten API's
 ### Table Of Contents
 - [Coinmarketcap](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/API%20Onderzoek#coinmarketcap)
