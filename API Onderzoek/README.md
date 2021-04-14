@@ -70,5 +70,8 @@ CoinDesk heeft een simpele API die alleen Bitcoin data verstrekt (BPI).
 - Data: https://api.coindesk.com/v1/bpi/currentprice.json  
 ![image](https://user-images.githubusercontent.com/58031089/114720532-626d6d00-9d38-11eb-9701-95d5372f3233.png)
 
+**Conclusie:**  
+Deze API is alleen handig als het niet mogelijk is een van de eerder benoemde API's aan te sluiten, de data is te schaars om zinvol in mijn project te verwerken.
+
 ## Workshop (Prototyting)
 Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is. Een van deze prototypes is mijn [Coin Test API](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/CoinAPITest).
