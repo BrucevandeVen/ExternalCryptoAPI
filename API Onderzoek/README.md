@@ -78,3 +78,6 @@ Deze API is alleen handig als het niet mogelijk is een van de eerder benoemde AP
 
 ## Workshop (Prototyting)
 Ik ga prototypes maken tijdens het API onderzoek om te vergelijken welke API het beste is. Een van deze prototypes is mijn [Coin Test API](https://github.com/BrucevandeVen/ExternalCryptoAPI/tree/main/CoinAPITest).
+
+## Conclusie
+Coinmarketcap is een zeer sterke optie, deze past bij mijn criterea. Ik ga deze API gebruiken bij mijn implementatie.
