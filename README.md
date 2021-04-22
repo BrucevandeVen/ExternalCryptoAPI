@@ -22,12 +22,12 @@ Voor mijn project wil ik weten wat de beste manier is om een crypto API te imple
 Ook moet ik een externe API kunnen implementeren in mijn project.
 
 De hoofdonderzoeksvraag:  
-**Welke crypto data API voldoet het meest aan mijn criterea en hoe implementeer ik deze in mijn ASP.NET WEB API project?**
+**Welke crypto data API voldoet het meest aan mijn criteria en hoe implementeer ik deze in mijn ASP.NET WEB API project?**
 
 ## Why  
 **Deelvragen**  
-Ik ga dit onderzoek uitvoeren, omdat ik overwelmt wordt door alle opties op het gebied van crypto API's. Het is lastig om iets te vinden wat aan mijn criterea voldoet. Om tot een concreter antwoord te komen heb ik 2 deelvragen bedacht:  
-- Welke Crypto API('s) voldoen het meeste aan mijn criterea?
+Ik ga dit onderzoek uitvoeren, omdat ik overwelmt wordt door alle opties op het gebied van crypto API's. Het is lastig om iets te vinden wat aan mijn criteria voldoet. Om tot een concreter antwoord te komen heb ik 2 deelvragen bedacht:  
+- Welke Crypto API('s) voldoen het meeste aan mijn criteria?
 - Hoe implementeer ik een Crypto API in mijn project?  
 
 **Wat gaat dit onderzoek oplossen?**  
