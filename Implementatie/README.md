@@ -99,3 +99,40 @@ een voorbeeld van deze request:
 }
 }
 ```
+
+### API Call
+Bij de documentatie van Coinmarketcap staat in een aantal formats, talen en frameworks uitgelegd, d.m.v. voorbeeld code snippets, hoe het mogelijk is om een API call te maken naar deze endpoint.
+
+Hoe ik mijn API call heb gemaakt:
+```
+        private List<Crypto> MakeAPICall()
+        {
+            var URL = new UriBuilder("https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest");
+
+            var queryString = HttpUtility.ParseQueryString(string.Empty);
+            queryString["start"] = "1";
+            queryString["limit"] = "10";
+            queryString["convert"] = "EUR";
+
+            URL.Query = queryString.ToString();
+
+            var client = new WebClient();
+            client.Headers.Add("X-CMC_PRO_API_KEY", API_KEY);
+            client.Headers.Add("Accepts", "application/json");
+            string json = client.DownloadString(URL.ToString());
+
+            dynamic dataSet = JsonConvert.DeserializeObject(json);
+
+            List<Crypto> cryptos = new List<Crypto>();
+
+            foreach (var coin in dataSet.data)
+            {
+                Crypto crypto = new Crypto();
+                crypto.Name = coin.name;
+                crypto.Price = coin.quote.EUR.price;
+                cryptos.Add(crypto);
+            }
+
+            return cryptos;
+        }
+```
