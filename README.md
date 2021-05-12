@@ -42,9 +42,12 @@ DOT Framework heeft 5 methodes om een onderzoek uit te voeren:
 - [Showroom](https://ictresearchmethods.nl/Category:Showroom) (expert feedback)
 
 Ik ben van plan de volgende methodes te gebruiken:  
-- Library
-- Workshop
-- Lab (optioneel)
-- Showroom (optioneel)
 
-Ik ben van plan een test applicatie te maken om verschillende API endpoints te kunnen testen van verschillende websites. 
+- Library  
+Dit zorgt er voor dat ik niet opnieuw het wiel hoef uit te vinden en al een indicatie heb van wat de betere/bekende API's zijn.  
+- Workshop  
+Ik ga prototypes maken om te weten hoe gemakkelijk de API implementeerbaar is in mijn project, zo kan ik uiteindelijk de gemakkelijkste en "beste" API kiezen. Ik ben van plan een prototyping applicatie te maken om verschillende API endpoints te kunnen testen van verschillende websites.  
+- Lab (optioneel)  
+Ik kan de API's nog dieper testen, maar dit is optioneel, omdat mijn doel redelijk eenvoudig is en geen diep ingewoven API vereist.  
+- Showroom (optioneel)  
+Ik kan aan mijn docenten feedback vragen over wat zei de betere API's vinden en hoe mijn onderzoek verloopt.
